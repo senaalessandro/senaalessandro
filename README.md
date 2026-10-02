@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ciao, sono Alessandro 👋
 
-<!--
-**senaalessandro/senaalessandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Network & Cloud Specialist in formazione | Homelab Enthusiast**
 
-Here are some ideas to get you started:
+Attualmente lavoro come tecnico grafico presso l'emittente televisiva Telelombardia (Mediapason S.p.A.). Parallelamente, sto consolidando la mia formazione tecnica come studente del corso Network and Cloud Specialist presso l'ITS Angelo Rizzoli. Unisco una solida base su infrastrutture di rete, virtualizzazione e amministrazione di sistemi alla mia esperienza operativa sul campo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Su cosa sto lavorando
+- ☁️ Approfondimento di Architetture Cloud, Virtualizzazione, Cyber Security e Networking
+- 🖥️ Gestione avanzata del mio homelab sperimentando con Proxmox VE, container Docker e pfSense
+- 🐍 Automazione e scripting in Python integrati con ambienti database
+- 🌱 Sviluppo del mio portfolio personale su dominio custom con Astro e Cloudflare Pages
+
+### ⚙️ Competenze Tecniche
+* **Virtualizzazione & Container:** Proxmox VE, Hyper-V, Docker
+* **Cloud Computing:** Architetture IaaS/PaaS/SaaS, servizi core AWS, implementazioni Hybrid
+* **Networking & Security:** Cisco Packet Tracer (VLAN, routing, STP), firewall pfSense, WireGuard VPN
+* **Sistemi Operativi:** Windows Server 2019+ (AD DS, DNS, DHCP), Linux Debian/Ubuntu
+* **Programmazione:** Python (OOP, automazione), SQL (MSSQL Server, MariaDB)
+
+### 🏆 Certificazioni
+- AWS Certified Cloud Practitioner (CLF-C02)
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Security, Compliance and Identity Fundamentals (SC-900)
+- IT Specialist - Python
+
+### 📫 Connettiamoci
+- 🌍 Portfolio: https://alessandrosena.me
+- 💼 LinkedIn: https://www.linkedin.com/in/senaalessandro/
+- ✉️ Email Professionale: hello@alessandrosena.me
+- ✉️ Email Personale: alessandro.sena@pm.me
