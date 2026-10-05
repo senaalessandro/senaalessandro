@@ -1,8 +1,8 @@
 # Ciao, sono Alessandro 👋
 
-**Network & Cloud Specialist in formazione | Homelab Enthusiast**
+**Studente Network & Cloud Specialist @ ITS Angelo Rizzoli**
 
-Attualmente lavoro come tecnico grafico presso l'emittente televisiva Telelombardia (Mediapason S.p.A.). Parallelamente, sto consolidando la mia formazione tecnica come studente del corso Network and Cloud Specialist presso l'ITS Angelo Rizzoli. Unisco una solida base su infrastrutture di rete, virtualizzazione e amministrazione di sistemi alla mia esperienza operativa sul campo.
+Attualmente lavoro come tecnico grafico presso l'emittente televisiva Telelombardia. Parallelamente, sto consolidando la mia formazione tecnica come studente del corso Network and Cloud Specialist presso l'ITS Angelo Rizzoli. Unisco una solida base su infrastrutture di rete, virtualizzazione e amministrazione di sistemi alla mia esperienza operativa sul campo.
 
 ### 🛠️ Su cosa sto lavorando
 - ☁️ Approfondimento di Architetture Cloud, Virtualizzazione, Cyber Security e Networking
